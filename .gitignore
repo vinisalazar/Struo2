@@ -82,3 +82,5 @@ target/
 
 # pyenv python configuration file
 .python-version
+slurm/
+dryrun.txt
